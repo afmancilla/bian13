@@ -29,6 +29,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/CustomerOfferProcedure"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -52,6 +70,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/CustomerOfferProcedure"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -75,6 +111,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/CustomerOfferProcedure"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -98,6 +152,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/CustomerOfferProcedure"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -121,6 +193,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/CustomerOfferProcedure"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -144,6 +234,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/CustomerOfferProcedure"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -164,6 +272,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/CustomerOfferProcedure"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -190,6 +316,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/FacilityApplication"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -216,6 +360,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/FacilityApplication"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -239,6 +401,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/FacilityApplication"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -265,6 +445,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Disclosures"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -291,6 +489,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Disclosures"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -314,6 +530,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Disclosures"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -340,6 +574,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Credit"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -363,6 +615,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Credit"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -389,6 +659,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Underwriting"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -412,6 +700,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Underwriting"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -438,6 +744,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Compliance"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -461,6 +785,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Compliance"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -487,6 +829,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Audit"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -510,6 +870,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Audit"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -536,6 +914,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Collateral"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -562,6 +958,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Collateral"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -585,6 +999,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Collateral"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -611,6 +1043,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Booking"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -634,6 +1084,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Booking"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -660,6 +1128,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/CorrespondenceandDocuments"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -686,6 +1172,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/CorrespondenceandDocuments"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -709,6 +1213,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/CorrespondenceandDocuments"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -735,6 +1257,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Agreement"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -761,6 +1301,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Agreement"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -784,6 +1342,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/Agreement"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -810,6 +1386,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/ProductInitialization"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -833,6 +1427,24 @@
         "responses": {
           "200": {
             "$ref": "#/components/responses/ProductInitialization"
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "401": {
+            "$ref": "#/components/responses/Unauthorized"
+          },
+          "403": {
+            "$ref": "#/components/responses/Forbidden"
+          },
+          "404": {
+            "$ref": "#/components/responses/NotFound"
+          },
+          "429": {
+            "$ref": "#/components/responses/TooManyRequests"
+          },
+          "500": {
+            "$ref": "#/components/responses/InternalServerError"
           }
         }
       }
@@ -840,6 +1452,24 @@
   },
   "components": {
     "schemas": {
+      "HTTPError": {
+        "type": "object",
+        "properties": {
+          "status_code": {
+            "type": "string",
+            "format": "string"
+          },
+          "status": {
+            "type": "string",
+            "format": "string"
+          },
+          "message": {
+            "type": "string",
+            "format": "string"
+          }
+        },
+        "description": "Status Attributes"
+      },
       "businessunit": {
         "type": "object",
         "properties": {
@@ -854,7 +1484,7 @@
             "format": "string"
           }
         },
-        "description": ""
+        "description": "Defines the booking entity"
       },
       "financialinstrumenttypevalues": {
         "enum": [
@@ -870,14 +1500,14 @@
           "Derivative"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Loan` - \r\n* `Bond` - \r\n* `Deposit` - \r\n* `Stock` - \r\n* `Option` - \r\n* `Share` - \r\n* `Debt` - Financial instruments evidencing moneys owed by the issuer to the holder on terms as specified. (ISO20022)\n\nAny type of instrument primarily classified as debt can be considered a debt instrument. Debt instruments are tools an individual, government entity, or business entity can utilize for the purpose of obtaining capital. Debt instruments provide capital to an entity that promises to repay the capital over time. Credit cards, credit lines, loans, and bonds can all be types of debt instruments. (Investopedia)\r\n* `Letterofcredit` - Instrument issued by a bank substituting its name and credit standing for that of its customer. A letter of credit is a written undertaking of the bank, issued for the account of a customer (the applicant), to honour a demand for payment, upon the beneficiary's compliance with the terms and conditions set forth in the undertaking. (ISO20022)\r\n* `Security` - Financial instruments representing a sum of rights of the investor vis-a-vis the issuer. (ISO20022)\r\n* `Derivative` - \r\n"
       },
       "value": {
         "type": "object",
         "properties": {
           "Value": {
             "type": "string",
-            "description": "",
+            "description": "Data or set of data \n\n- A value is the concept of worth in general that is assigned or is determined by measurement, assessment or calculation. (UN/CEFACT)",
             "format": "datatype"
           }
         },
@@ -888,7 +1518,7 @@
         "properties": {
           "Currencycode": {
             "type": "string",
-            "description": "",
+            "description": "A code identifying a currency according to ISO-4217.\nA currency is a system of money in general use in a particular country.\n\nCode allocated to a currency, by a maintenance agency, under an international identification scheme as described in the latest edition of the international standard ISO 4217 \"Codes for the representation of currencies and funds\". Valid currency codes are registered with the ISO 4217 Maintenance Agency, and consist of three contiguous letters. (ISO20022)\n\n",
             "format": "datatype"
           }
         },
@@ -899,11 +1529,11 @@
         "properties": {
           "Text": {
             "type": "string",
-            "description": "",
+            "description": "Text is a character string such as a finite set of characters generally in the form of words of a language. (UN/CEFACT)",
             "format": "datatype"
           }
         },
-        "description": ""
+        "description": "The outcome of the task  (will be used to update the Customer Offer Procedure Instance Record) ||\r\n|"
       },
       "amounttypevalues": {
         "enum": [
@@ -925,7 +1555,7 @@
           "Fixed"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Principal` - \r\n* `Actual` - Actual amount.\r\n* `Estimated` - Estimated amount (the final amount could be above or below).\r\n* `Maximum` - Maximum amount (the final amount must be less or equal).\r\n* `Default` - Default amount.\r\n* `Replacement` - Replacement amount.\r\n* `Incremental` - Incremental amount for reservation.\r\n* `Decremental` - Decremental amount for reservation.\r\n* `Reserved` - Reserved or updated reserved amount for reservation.\r\n* `Available` - \r\n* `Used` - \r\n* `DuePayable` - \r\n* `Minimum` - \r\n* `Open` - The amount is open.(ISO20022)\r\n* `Unknown` - The amount is unkown.(ISO20022)\r\n* `Fixed` - The amount represents a fixed value.(ISO20022)\r\n"
       },
       "amount": {
         "type": "object",
@@ -943,7 +1573,7 @@
             "$ref": "#/components/schemas/amounttypevalues"
           }
         },
-        "description": ""
+        "description": "The principle amount for booking"
       },
       "Booking": {
         "type": "object",
@@ -958,7 +1588,7 @@
             "$ref": "#/components/schemas/amount"
           }
         },
-        "description": ""
+        "description": "Handles the booking of the asset or liability to the appropriate unit"
       },
       "date": {
         "type": "object",
@@ -967,7 +1597,7 @@
             "$ref": "#/components/schemas/text"
           }
         },
-        "description": ""
+        "description": "Date when the asset was provided as collateral"
       },
       "collateraltypevalues": {
         "enum": [
@@ -997,7 +1627,7 @@
           "Commercialbuilding"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Letterofcredit` - Instrument issued by a bank substituting its name and credit standing for that of its customer. A letter of credit is a written undertaking of the bank, issued for the account of a customer (the applicant), to honour a demand for payment, upon the beneficiary's compliance with the terms and conditions set forth in the undertaking.\r\n* `Cash` - Collateral type is cash.\r\n* `Securities` - Collateral type is securities.\r\n* `Physicalentities` - Collateral type are physical entities, for example, airplanes for debt issued by the airline industry.\r\n* `Insurance` - Collateral type is an insurance contract.\r\n* `Stockcertificate` - Collateral type is stock certificates.\r\n* `Bond` - Collateral type is bonds.\r\n* `Bankguarantee` - Collateral type is a bank guarantee.\r\n* `Other` - Other assets that could be used as collateral.\r\n* `Commodity` - Collateral type is commodities.\r\n* `Automobile` - Collateral type is automobile.\r\n* `Industrialvehicle` - Collateral type is industrial vehicle.\r\n* `Commercialtruck` - Collateral type is commercial track.\r\n* `Railvehicle` - Collateral type is rail vehicle.\r\n* `Nauticalcommercialvehicle` - Collateral type is nautical commercial vehicle.\r\n* `Nauticalleisurevehicle` - Collateral type is nautical leisure vehicle.\r\n* `Aeroplane` - Collateral type is aeroplane.\r\n* `Machinetool` - Collateral type is machine.\r\n* `Industrialequipment` - Collateral type is industrial equipment.\r\n* `Officeequipment` - Collateral type is office equipment.\r\n* `Itequipment` - Collateral type is IT equipment.\r\n* `Medicalequipment` - Collateral type is medical equipment.\r\n* `Energyrelatedequipment` - Collateral type is energy related equipment.\r\n* `Commercialbuilding` - Collateral type is commercial building.\r\n"
       },
       "balancetypevalues": {
         "enum": [
@@ -1021,7 +1651,7 @@
           "Expected"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `OpeningBalance` - Book balance of the account at the beginning of the account servicer's business day. It always equals the closing book balance from the previous business day. Note: the available balance at the beginning of the account servicer's business day may be different from the closing book balance from the previous business day. (ISO20022)\r\n* `ClosingBalance` - Balance of the account at the end of the account servicer's business day. It is the sum of the opening balance at the beginning of the day and all entries booked to the account during the account servicer's business day. (ISO20022)\r\n* `CurrentBalance` - Balance of the account at a precise moment in time. (ISO20022)\r\n* `AvailableBalance` - Balance of money or securities that is at the disposal of the account owner on the date specified. (ISO20022)\r\n* `LedgerBalance` - Ledger balance refers to posted transactions (e.g. limit authorisation amount - posted transactions). (ISO20022)\r\n* `ReserveBalance` - \r\n* `FreeBalance` - \r\n* `PrincipalBalance` - \r\n* `ClosingAvailable` - Closing balance of amount of money that is at the disposal of the account owner on the date specified.\r\n* `ClosingBooked` - Balance of the account at the end of the pre-agreed account reporting period. It is the sum of the opening booked balance at the beginning of the period and all entries booked to the account during the pre-agreed account reporting period.\r\n* `ForwardAvailable` - Forward available balance of money that is at the disposal of the account owner on the date specified.\r\n* `Information` - Balance for informational purposes.\r\n* `InterimAvailable` - Available balance calculated in the course of the account servicer's business day, at the time specified, and subject to further changes during the business day. The interim balance is calculated on the basis of booked credit and debit items during the calculation time/period specified.\r\n* `InterimBooked` - Balance calculated in the course of the account servicer's business day, at the time specified, and subject to further changes during the business day. The interim balance is calculated on the basis of booked credit and debit items during the calculation time/period specified.\r\n* `OpeningAvailable` - Opening balance of amount of money that is at the disposal of the account owner on the date specified.\r\n* `OpeningBooked` - Book balance of the account at the beginning of the account reporting period. It always equals the closing book balance from the previous report.\r\n* `PreviouslyClosedBooked` - Balance of the account at the previously closed account reporting period. The opening booked balance for the new period has to be equal to this balance.\nUsage: the previously booked closing balance should equal (inclusive date) the booked closing balance of the date it references and equal the actual booked opening balance of the current date.\r\n* `Expected` - Balance, composed of booked entries and pending items known at the time of calculation, which projects the end of day balance if everything is booked on the account and no other entry is posted.\r\n"
       },
       "datetimetypevalues": {
         "enum": [
@@ -1047,7 +1677,7 @@
           "FulfillmentDate"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `MaturityDate` - \r\n* `InitiatedDate` - \r\n* `RequestedDate` - \r\n* `ExecutedDate` - \r\n* `OpenDate` - \r\n* `CloseDate` - \r\n* `ExpiryDate` - \r\n* `EffectiveDate` - \r\n* `CreatingDate` - \r\n* `ActivationDate` - \r\n* `DeactivationDate` - \r\n* `BlockingDate` - \r\n* `SendingDate` - \r\n* `ValidFromDate` - \r\n* `ValidToDate` - \r\n* `ReceivingDate` - \r\n* `SigningDate` - \r\n* `DueDate` - \r\n* `ValueDate` - \r\n* `FulfillmentDate` - \r\n"
       },
       "datetime": {
         "type": "object",
@@ -1065,7 +1695,7 @@
             "$ref": "#/components/schemas/datetimetypevalues"
           }
         },
-        "description": ""
+        "description": "Date and time at which the balance is or will be available. (ISO20022)"
       },
       "debitcreditindicatortvalues": {
         "enum": [
@@ -1073,7 +1703,7 @@
           "Credit"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Debit` - Transaction is a debt entry\r\n* `Credit` - Transaction is a credit entry\r\n"
       },
       "balancecounterpartytypevalues": {
         "enum": [
@@ -1081,7 +1711,7 @@
           "Multilateral"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Bilateral` - Balance calculated regarding one member in the system. (ISO20022)\r\n* `Multilateral` - Balance calculated regarding all members in the system. (ISO20022)\r\n"
       },
       "balancesubtypevalues": {
         "enum": [
@@ -1108,7 +1738,7 @@
           "Threshold"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Adjustment` - Balance to be held in the settlement account in order to comply with the average reserve due, in the event that the bank's balance is equal to the reserve due during the remaining days of the maintenance period.\r\n* `Basecurrency` - Balance representing the amount in the domestic or base accounting currency.\r\n* `Blocked` - Balance representing the regulatory reserve that a financial institution must have with the account servicing institution, eg, the minimum credit balance a financial institution is to keep with its Central Bank for mandatory reserve purposes. In some countries, a blocked balance is known as a 'reserve' balance.\r\n* `Blockedfunds` - Balance representing funds that cannot be touched by the account owner.\r\n* `Daylightoverdraft` - Balance representing the intra day overdraft granted by the Central Bank to financial institutions participating in a RTGS system. This balance may vary over time and shall be offset at the end of the day.\r\n* `Eligibleassets` - Balance representing the potential loan a Central Bank would make in cash if the collateral is pledged, eg, securities available and eligible as collateral with the Central Bank.\r\n* `Firmcollateralization` - Balance representing the forecast of the cash-equivalent resulting from evaluation of existing holdings at CSD that are qualified to serve as collateral.\r\n* `Amountsthathavebeenusedtoserveasfirmcollateral` - Balance representing the cash equivalent resulting from evaluation of existing holdings at CSD that are qualified to serve as collateral and have been used as collateral.\r\n* `Securitiesforecast` - Balance representing the total of all balance types representing the forecast of transactions to settle, blocked items, custody transactions and corporate actions cash disbursements.\r\n* `Netfunding` - Balance representing the net amount to be funded resulting from the difference between the total of all transactions with a cash impact and the existing cash coverage.\r\n* `Intermediate` - Balance representing an intermediate amount such as the opening or closing balance incrementally carried forward from one page to the next in a multi-page statement or report.\r\n* `Localcurrency` - Balance representing the amount in the local market currency for which the asset is held.\r\n* `Limitrelated` - Balance of a specific limit value, eg, a bilateral balance is calculated in relation to a given bilateral limit.\r\n* `Reservedliquidity` - Balance representing the amount that a financial institution has set aside for a specific reason and which is therefore not available. In the context of CSDs, reservation of liquidity made to meet settlement obligations.\r\n* `Securitiespending` - Balance of securities pending delivery, such as orders to sell securities have been executed but settlement of the open transactions has not been confirmed.\r\n* `Payinpayout` - Balance representing the fictive amount of automated direct debits or payment based on standing arrangements between the CSD and the user. Usage: Pay-Ins and Pay-Outs can be different based on individual payment instructions or available funds.\r\n* `Progressiveaverage` - Average of the daily balances on the account used to fulfil the reserve requirements calculated from the beginning of the maintenance period.\r\n* `Reserve` - Balance representing the regulatory reserve that a financial institution must have with the account servicing institution, eg, the minimum credit balance a financial institution is to keep with its Central Bank for mandatory reserve purposes.\r\n* `Selfcollateralization` - Balance representing the forecast of the cash-equivalent resulting from evaluation of the net incoming balance of securities qualified to serve as collateral for which settlement instructions are held at.\r\n* `Amountsthathavebeenusedtoserveasselfcollateral` - Balance representing the cash-equivalent resulting from evaluation of incoming securities, qualified to serve as collateral and actually used as collateral, which have been settled during the settlement process.\r\n* `Threshold` - Balance representing the amount that will be destined for investment. Difference between available balance and threshold for investment limit.\r\n"
       },
       "accountbalance": {
         "type": "object",
@@ -1135,7 +1765,7 @@
             "$ref": "#/components/schemas/balancesubtypevalues"
           }
         },
-        "description": ""
+        "description": "Collateral balance which contain specific collateral elements.(ISO20022)"
       },
       "collateralpurposetypevalues": {
         "enum": [
@@ -1143,7 +1773,7 @@
           "SegregatedIndependentAmount"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `VariationMargin` - \r\n* `SegregatedIndependentAmount` - \r\n"
       },
       "collateralassetarrangement": {
         "type": "object",
@@ -1167,18 +1797,18 @@
             "$ref": "#/components/schemas/collateralpurposetypevalues"
           }
         },
-        "description": ""
+        "description": "The required collateral amount for the offer"
       },
       "name": {
         "type": "object",
         "properties": {
           "Name": {
             "type": "string",
-            "description": "",
+            "description": "A name is a word or phrase that constitutes the distinctive designation of a person, place, thing or concept. (UN/CEFAT)",
             "format": "datatype"
           }
         },
-        "description": ""
+        "description": "Name by which a party is known and which is usually used to identify that party. (ISO20022)\n"
       },
       "partytypevalues": {
         "enum": [
@@ -1186,7 +1816,7 @@
           "Organisation"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Person` - Human entity, as distinguished from a corporate entity (which is sometimes referred to as an 'artificial person'). ISO20022\r\n* `Organisation` - Organised structure that is set up for a particular purpose. For example, a business, government body, department, charity, or financial institution. ISO20022\r\n"
       },
       "partyidentificationtypevalues": {
         "enum": [
@@ -1206,7 +1836,7 @@
           "Nationalregistrationidentificationnumber"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Taxidentificationnumber` - Number assigned by a tax authority to an entity.\r\n* `Nationalregistrationnumber` - Number assigned by a national registration authority to an entity. In Singapore this is known as the NRIC. (ISO20022)\r\n* `Registrationauthorityidentification` - An identifier for the Legal Entity in a business registry in the jurisdiction of legal registration, or in the appropriate registration authority. (ISO20022)\r\n* `LEI(LegalEntityIdentifier)` - \r\n* `Alienregistrationnumber` - Number assigned by a government agency to identify foreign nationals.\r\n* `Passportnumber` - Number assigned by a passport authority.\r\n* `Taxexemptidentificationnumber` - Number assigned to a tax exempt entity.\r\n* `Corporateidentification` - Number assigned to a corporate entity.\r\n* `Driverlicensenumber` - Number assigned to a driver's license.\r\n* `Foreigninvestmentidentitynumber` - Number assigned to a foreign investor (other than the alien number).\r\n* `Socialsecuritynumber` - Number assigned by a social security agency.\r\n* `Identitycardnumber` - Number assigned by a national authority to an identity card.\r\n* `Concat` - Number assigned by an issuer to identify a customer via the concatenation of the birthdate and characters of the first name and surname.\r\n* `Nationalregistrationidentificationnumber` - National registration identification number. In Singapore this is known as the NRIC.\r\n"
       },
       "partyidentification": {
         "type": "object",
@@ -1236,7 +1866,7 @@
           "Sole(SoleTrader)"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Individual` - \r\n* `CommunityInterestCompany` - \r\n* `CharitableIncorporatedOrganisation` - \r\n* `Co-Operative` - \r\n* `Charity` - \r\n* `GeneralPartnership` - \r\n* `LimitedLiabilityPartnership` - \r\n* `ScottishLimitedPartnership` - \r\n* `LimitedPartnership` - \r\n* `PrivateLimitedCompany` - \r\n* `PublicLimitedCompany` - \r\n* `Sole(SoleTrader)` - \r\n"
       },
       "party": {
         "type": "object",
@@ -1257,7 +1887,7 @@
             "$ref": "#/components/schemas/partylegalstructuretypevalues"
           }
         },
-        "description": ""
+        "description": "Reference to the legal entity (typically the customer) Party|Party (https://www.iso20022.org/standardsrepository/type/Party)|Standard|ISO20022BM ()"
       },
       "datetimeperiod": {
         "type": "object",
@@ -1282,7 +1912,7 @@
           "Bankguaranteeinvolvement"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Agreementinvolvement` - \r\n* `Partyinvolvement` - \r\n* `Arrangementinvolvement` - \r\n* `Designspecificationinvolvement` - \r\n* `Relationshipinvolvement` - \r\n* `Locationinvolvement` - \r\n* `Bankguaranteeinvolvement` - \r\n"
       },
       "partyrole": {
         "type": "object",
@@ -1312,7 +1942,7 @@
             "$ref": "#/components/schemas/partyrole"
           }
         },
-        "description": ""
+        "description": "Employees involved in completing the offer task ||\r\n|"
       },
       "identifier": {
         "type": "object",
@@ -1330,7 +1960,7 @@
             "$ref": "#/components/schemas/datetime"
           }
         },
-        "description": ""
+        "description": "An identifier that allows to uniquely refer to an instance of a Collateral Agreement.\n"
       },
       "collateralagreement": {
         "type": "object",
@@ -1349,11 +1979,11 @@
         "properties": {
           "Duration": {
             "type": "string",
-            "description": "",
+            "description": "A duration is the specification of a length of time without a fixed start or end time, expressed in Gregorian calendar time units (Year, Month, Week, Day) and Hours, Minutes or Seconds. (UN/CEFACT)",
             "format": "datatype"
           }
         },
-        "description": ""
+        "description": "duration for which the earmarking is enforced"
       },
       "schedule": {
         "type": "object",
@@ -1362,7 +1992,7 @@
             "$ref": "#/components/schemas/text"
           }
         },
-        "description": ""
+        "description": "Defines scheduled update/review tasks covering all tracked properties ||\r\n|"
       },
       "paymentwarrantyarrangement": {
         "type": "object",
@@ -1380,7 +2010,7 @@
             "$ref": "#/components/schemas/schedule"
           }
         },
-        "description": ""
+        "description": "Reference to earmarked collateral during the offer procedure"
       },
       "collateralassetstatustypevalues": {
         "enum": [
@@ -1393,7 +2023,7 @@
           "IssuedForExecution"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Offered` - \r\n* `UnderAssessment` - \r\n* `Transferred` - \r\n* `Allocated` - \r\n* `FreeForAllocation` - \r\n* `AllocatedToAnotherLoan` - \r\n* `IssuedForExecution` - \r\n"
       },
       "collateralasset": {
         "type": "object",
@@ -1408,7 +2038,7 @@
             "$ref": "#/components/schemas/collateralassetstatustypevalues"
           }
         },
-        "description": ""
+        "description": "Reference to the related collateral asset (e.g. property)"
       },
       "allocationstatustypevalues": {
         "enum": [
@@ -1417,7 +2047,7 @@
           "Earmarked"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Fullyallocated` - \r\n* `Partiallyallocated` - \r\n* `Earmarked` - Not allocated, merely earmarked\r\n"
       },
       "collateralassetallocation": {
         "type": "object",
@@ -1426,7 +2056,7 @@
             "$ref": "#/components/schemas/allocationstatustypevalues"
           }
         },
-        "description": ""
+        "description": "Reference to the allocated collateral"
       },
       "Collateral": {
         "type": "object",
@@ -1444,7 +2074,7 @@
             "$ref": "#/components/schemas/collateralassetallocation"
           }
         },
-        "description": ""
+        "description": "Handles the booking of the asset or liability to the appropriate unit"
       },
       "financialdocumenttypevalues": {
         "enum": [
@@ -1474,7 +2104,7 @@
           "Salereceipt"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Meteredserviceinvoice` - Document is an invoice claiming payment for the supply of metered services, for example gas or electricity supplied to a fixed meter.\r\n* `Creditnoterelatedtofinancialadjustment` - Document is a credit note for the final amount settled for a commercial transaction.\r\n* `Debitnoterelatedtofinancialadjustment` - Document is a debit note for the final amount settled for a commercial transaction.\r\n* `Commercialinvoice` - Document is an invoice.\r\n* `Creditnote` - Document is a credit note.\r\n* `Debitnote` - Document is a debit note.\r\n* `Hireinvoice` - Document is an invoice for the hiring of human resources or renting goods or equipment.\r\n* `Selfbilledinvoice` - Document is an invoice issued by the debtor.\r\n* `Remittanceadvicemessage` - Document is a remittance advice sent separately from the current transaction.\r\n* `Relatedpaymentinstruction` - Document is a linked payment instruction to which the current payment instruction is related, for example, in a cover scenario.\r\n* `Commercialcontract` - Document is an agreement between the parties, stipulating the terms and conditions of the delivery of goods or services.\r\n* `Foreignexchangedealreference` - Document is a pre-agreed or pre-arranged foreign exchange transaction to which the payment transaction refers.\r\n* `Statementofaccount` - Document is a statement of the transactions posted to the debtor's account at the supplier.\r\n* `Dispatchadvice` - Document is a dispatch advice.\r\n* `Purchaseorder` - Document is a purchase order.\r\n* `Structuredcommunicationreference` - Document is a structured communication reference provided by the creditor to identify the referred transaction.\r\n* `Billoflading` - Document is a shipping notice.\r\n* `Voucher` - Document is an electronic payment document.\r\n* `Accountreceivableopenitem` - Document is a payment that applies to a specific source document.\r\n* `Tradeservicesutilitytransaction` - Document is a transaction identifier as assigned by the Trade Services Utility.\r\n* `Cashierreceipt` - When the Sale system print the Cashier copy of the Payment receipt.\r\n* `Customerreceipt` - When the Sale System requires   the POI system to print the Customer receipt.\r\n* `Journal` - When the POI or the Sale System wants to store a message on the journal printer or electronic journal of the Sale Terminal (it is sometimes a Sale Logging/Journal Printer).\r\n* `Salereceipt` - When the Sale System requires the POI system to print the Sale receipt.\r\n"
       },
       "status": {
         "type": "object",
@@ -1492,7 +2122,7 @@
             "$ref": "#/components/schemas/involvedparty"
           }
         },
-        "description": ""
+        "description": "Status of the document (e.g. delivered, paid, etc.). ISO20022"
       },
       "documentdatetimetypevalues": {
         "enum": [
@@ -1503,7 +2133,7 @@
           "IssueDate"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `CreationDate` - \r\n* `CapturingDate` - \r\n* `VersionDate` - \r\n* `ValueDate` - \r\n* `IssueDate` - \r\n"
       },
       "document": {
         "type": "object",
@@ -1562,7 +2192,7 @@
             "$ref": "#/components/schemas/document"
           }
         },
-        "description": ""
+        "description": "The type of disclosure (e.g. verbal, requiring signature)"
       },
       "Disclosures": {
         "type": "object",
@@ -1575,14 +2205,14 @@
           },
           "CustomerAcceptanceIndicator": {
             "type": "string",
-            "description": "",
+            "description": "An indicator that the disclosure has been accepted (indicates signature obtained as necessary)",
             "format": "boolean"
           },
           "DocumentReference": {
             "$ref": "#/components/schemas/document"
           }
         },
-        "description": ""
+        "description": "Handles the booking of the asset or liability to the appropriate unit"
       },
       "customerratingtypevalues": {
         "enum": [
@@ -1591,7 +2221,7 @@
           "CustomerRiskRating"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `CustomerProfitabilityRating` - A value of Customer Rating Type whereby customer profitability is measured.\n\nA customer profitability rating (CPR) is an assessment used by businesses to evaluate the profitability of individual customers or customer segments. This rating helps companies understand which customers contribute the most to their bottom line and enables them to tailor their strategies to maximize overall profitability.\r\n* `CustomerCreditRating` - A value of Customer Rating Type whereby customer creditability is measured.\n\nA customer credit rating is a numerical score or rating that represents the creditworthiness of an individual or a business. It indicates the likelihood that the borrower will repay their debt obligations on time\r\n* `CustomerRiskRating` - A customer risk rating is an assessment of the potential risk associated with a customer, often used in the context of anti-money laundering (AML) and know your customer (KYC) regulations. It evaluates the likelihood of a customer engaging in activities that could pose a legal, financial, or reputational risk to the institution.\r\n"
       },
       "customerrating": {
         "type": "object",
@@ -1612,7 +2242,7 @@
             "$ref": "#/components/schemas/datetimeperiod"
           }
         },
-        "description": ""
+        "description": "The customer's current credit rating"
       },
       "customercreditratingassessment": {
         "type": "object",
@@ -1623,7 +2253,7 @@
             "format": ""
           }
         },
-        "description": ""
+        "description": "Reference to the authorization if an aspect of the offer procedure"
       },
       "Credit": {
         "type": "object",
@@ -1638,7 +2268,7 @@
             "$ref": "#/components/schemas/text"
           }
         },
-        "description": ""
+        "description": "Handles the booking of the asset or liability to the appropriate unit"
       },
       "featuretypevalues": {
         "enum": [
@@ -1657,7 +2287,7 @@
           "PriceFeature"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `FeeFeature` - This refers to the functionality in a system or platform that manages, calculates, or displays fees associated with specific transactions or services.\r\n* `InterestFeature` - This feature calculates and tracks interest earnings or charges on accounts, loans, or investments over time.\r\n* `WithdrawalFeature` - The withdraw feature typically refers to an option or functionality that allows users to retrieve or remove something from a system or platform.\r\n* `DepositFeature` - This refers to a functionality that allows users to add funds to an account or system, often by transferring money from another source.\r\n* `SweepFeature` - \r\n* `LienFeature` - \r\n* `PaymentFeature` - This refers to the functionality that facilitates or tracks the transfer of funds for a purchase or settlement of dues.\r\n* `RepaymentFeature` - This feature facilitates or manages the process of paying back borrowed funds, such as loans, credit card balances, or advances.\r\n* `LimitFeature` - This feature sets, monitors, or enforces restrictions on the maximum amount that can be accessed, spent, or transacted within a system.\r\n* `OverdraftFeature` - This functionality allows users to withdraw more money than what is available in their account balance, often up to a predefined limit.\r\n* `StatementFeature` - The statement feature refers to a functionality in banking, finance, or digital platforms that provides users with a detailed record of their transactions or activities over a specific period.\r\n* `CurrencyExchangeFeature` - This feature enables users to convert funds from one currency to another at prevailing exchange rates, often within financial or payment platforms.\r\n* `PriceFeature` - This feature involves displaying or managing the price of goods, services, or financial instruments within a platform.\r\n"
       },
       "feature": {
         "type": "object",
@@ -1678,7 +2308,7 @@
             "$ref": "#/components/schemas/text"
           }
         },
-        "description": ""
+        "description": "Product feature selected in the customer offering"
       },
       "actiontypevalues": {
         "enum": [
@@ -1692,7 +2322,7 @@
           "Calculate"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Initiate` - \r\n* `Execute` - \r\n* `Create` - \r\n* `Transfer` - \r\n* `Pay` - \r\n* `Deliver` - \r\n* `Apply` - \r\n* `Calculate` - \r\n"
       },
       "action": {
         "type": "object",
@@ -1714,7 +2344,7 @@
           "Terminated"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Requested` - \r\n* `Proposed` - \r\n* `Offered` - \r\n* `Accepted` - \r\n* `Cancelled` - \r\n* `Fulfilled` - \r\n* `Terminated` - \r\n"
       },
       "arrangementstatus": {
         "type": "object",
@@ -1726,14 +2356,14 @@
             "$ref": "#/components/schemas/arrangementstatustypevalues"
           }
         },
-        "description": ""
+        "description": "A characteristic of arrangement which refers to the LifecycleStatus of arrangement (e.g., requested, proposed, offered, accepted, cancelled, terminated, fulfilled, etc.)"
       },
       "subject": {
         "type": "object",
         "properties": {
           "Subject": {
             "type": "string",
-            "description": "",
+            "description": "A thing that is discussed or dealt whit in agreement/arrangement about doing or not doing (as action) something.",
             "format": "class"
           }
         },
@@ -1771,7 +2401,7 @@
           "MaturityArrangement"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `SweepArrangement` - An arrangement into which is promised for the set-up and execution of structured sweeps to and from the facility to a linked account.\r\n* `WithdrawalArrangement` - An arrangement into which is promised to deliver Withdraw Service  to take fund out of an account. \r\n* `DepositArrangement` - An arrangement into which is promised to deliver Deposit Service  to place funds into an account for safekeeping. \r\n* `InterestArrangement` - An arrangement into which is promised to apply a pricing element expressed in a percentage  to a principal amount.\r\n* `FeeArrangement` - An arrangement into which is promised to apply a charge for services rendered. \r\n* `LienArrangement` - An arrangement into which is promised for placing a lien or block on the account for a specified purpose, amount, and period. \r\n* `InformationArrangement` - An arrangement concerning the information the bank will provide about the agreement/account\r\n* `PaymentArrangement` - An arrangement into which is promised to deliver a specific payment service including regular payments, standing orders, direct debits and bill pay instructions. \r\n* `EntitlementArrangement` - Right or obligation linked to the involvement of a party in an agreement\r\n* `PeriodArrangement` - \r\n* `CollateralArrangement` - An arrangement into which is promised for handling the oversight of the allocation, valuation and administration of collateral associated with the facility. \r\n* `LimitArrangement` - An arrangement to limit something\ne.g., the number of transaction per week, the amount of money allowed to withdraw per week/day and etc. \r\n* `AccessArrangement` - An arrangement that allows or restricts the access to a service or product, channel or device through a specific access point\r\n* `CardPaymentArrangement` - An arrangement into which is promised to deliver Card payment Service to execute payment transactions through a payment card, including online payments. \r\n* `StandingOrderArrangement` - An arrangement into which is promised to deliver Standing Order Service to make regular transfers on given dates to a named beneﬁciary. \r\n* `OverdraftArrangement` - An arrangement into which is promised to deliver Overdraft Service  that allows fund transfer even if there is no provision on the account. \r\n* `RepaymentArrangement` - An arrangement into which is promised for paying back money previously borrowed from a lender. \r\n* `StatementArrangement` - An arrangement into which is promised to deliver a reporting service on payment transactions registered on an account. \r\n* `CreditTransferArrangement` - An arrangement into which is promised to allow a payer to transfer fund to a beneficiary. \r\n* `ProductAndServiceArrangement` - \r\n* `FactoringArrangement` - \r\n* `RolloverArrangement` - Arrangement stipulating the modalities for an automatic renewal of the agreement\n\ni.e. the replacement of the agreement with a new one without renewed negociation and witout explicit agreement of the customer \r\n* `RestructuringArrangement` - \r\n* `InsuranceArrangement` - \r\n* `CollectionArrangement` - An arrangement into which is promised to collect past-due debts from borrowers\r\n* `UnderwritingArrangement` - A contractual agreement between parties that commits the underwriter to assuming risk.\r\n* `TerminationArrangement` - \r\n* `MaturityArrangement` - \r\n"
       },
       "arrangement": {
         "type": "object",
@@ -1795,7 +2425,7 @@
             "$ref": "#/components/schemas/arrangementtypevalues"
           }
         },
-        "description": ""
+        "description": "The option setting as agreed/defined with the customer"
       },
       "feetypevalues": {
         "enum": [
@@ -1848,7 +2478,7 @@
           "ChequeRelatedFee"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Accountingfee` - Fee paid for accounting services rendered.\r\n* `Adrfee` - Charge linked to an ADR (American Depositary Receipt).\r\n* `Advisoryfee` - Fee paid for advisory services rendered.\r\n* `Airwaybillfee` - Charge is an airway bill fee.\r\n* `Backendload` - Sales charge paid by the investor when redeeming an investment such as an investment fund.\r\n* `Brokeragefee` - Fee paid to a broker for services provided.\r\n* `Clearanceandhandlingatdestination` - Charge is for clearance and handling of goods at destination.\r\n* `Clearanceandhandlingatorigin` - Charge is for clearance and handling of goods at origin.\r\n* `Collectfreight` - Charge is for the collection of the freight.\r\n* `Commission` - Fee paid for services provided.\r\n* `Contingencydeferredsalescharge` - Deferred sales charge.\r\n* `Correspondentbankcharge` - In investment funds, the charge of the correspondent bank for transferring money.\r\n* `Custodyfee` - Fee paid to a custodian in respect of custodial services.\r\n* `Dangerousgoodsfee` - Charge is for dangerous goods.\r\n* `Dilutionlevy` - In investment funds, a charge payable by the investor covering bid-offer spreads and dealing charges for the underlying investments. The dilution levy is paid to the fund for the benefit of other unit holders.\r\n* `Discount` - Charge that has been reduced from the standard initial charge levied by a fund, eg, during a launch period or as negotiated by a funds supermarket / discount broker.\r\n* `Equalisation` - The part of an investor's subscription amount that is held by the fund in order to pay incentive or performance fees at the end of the fiscal year.\r\n* `Frontendload` - Sales charge paid immediately by the investor when subscribing to an investment such as an investment fund.\r\n* `Initial` - Charge paid at the time of the first subscription.\r\n* `Insurancepremium` - Charge is a premium for insurance.\r\n* `Issuancecancellationfee` - Fee linked to the cancellation of an issuance.\r\n* `Issuancefee` - Charge linked to the issuance of security.\r\n* `Managementfee` - Fee paid to an investment manager for services. The fee usually includes fund administration costs and investor relationship management. Typically, the amount paid is a percentage of the assets under management.\r\n* `Matchingfees` - Fee charged for matching and/or confirmation.\r\n* `Miscellaneousfee` - Miscellaneous fee.\r\n* `Other` - Another type of charge.\r\n* `Packaging` - Charge is for packaging of goods.\r\n* `Partacquis` - Portion of charge that the fund is entitled to receive, that cannot be reduced by an intermediary.\r\n* `Penalty` - Fee charged to the investor for early redemption of the fund.\r\n* `Pickup` - Charge is for pick-up of goods.\r\n* `Postagecharge` - Charge paid for the postage.\r\n* `Premium` - In investment funds, pre-arranged addition to the trade amount based on the published net asset value.\r\n* `Publicationfee` - Fee paid in respect of publications made.\r\n* `Regulatoryfee` - Fee charged by a regulatory authority, eg, Securities and Exchange fees.\r\n* `Securitycharge` - Charge is for security.\r\n* `Serviceprovisionfee` - Fee paid for the provision of financial services.\r\n* `Shippingcharge` - Charge for shipping, including the insurance of securities.\r\n* `Signatureservice` - Charge is for signature services.\r\n* `Specialconcessions` - Charges, drawdown, or other reduction from or in addition to the deal price.\r\n* `Speciallyagreedfrontendload` - Specially agreed front-end load.\r\n* `Storageatdestination` - Charge is for storage of goods at destination.\r\n* `Storageatorigin` - Charge is for storage of goods at origin.\r\n* `Switch` - In investment funds, charge related to a switch transaction.\r\n* `Transferfee` - In investment funds, a fee charged for the transfer of ownership of an investment fund.\r\n* `Transportcharges` - Charge is for transport.\r\n* `Ucitscommission` - Charges paid by the investor to the Fund Company for subscription and redemption orders.\r\n* `ChequeRelatedFee` - \r\n"
       },
       "rate": {
         "type": "object",
@@ -1866,7 +2496,7 @@
             "$ref": "#/components/schemas/text"
           }
         },
-        "description": ""
+        "description": "Rate used to calculate the amount of the adjustment, allowance, charge or fee. (ISO20022)"
       },
       "feeplantypevalues": {
         "enum": [
@@ -1874,7 +2504,7 @@
           "FinalFeePlan"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `StandardFeePlan` - \r\n* `FinalFeePlan` - \r\n"
       },
       "goaltypevalues": {
         "enum": [
@@ -1887,7 +2517,7 @@
           "SMARTGoal"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Short-TermGoal` - \r\n* `Long-TermGoal` - \r\n* `BusinessGoal` - \r\n* `PerformanceGoal` - \r\n* `FinancialGoal` - \r\n* `OutcomeGoal` - \r\n* `SMARTGoal` - \r\n"
       },
       "goaldatetimetypevalues": {
         "enum": [
@@ -1898,7 +2528,7 @@
           "CompletionDate"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `SettingDate` - \r\n* `PlanningDate` - \r\n* `StartDate` - \r\n* `ReviewDate` - \r\n* `CompletionDate` - \r\n"
       },
       "goaldatetime": {
         "type": "object",
@@ -1910,7 +2540,7 @@
             "$ref": "#/components/schemas/goaldatetimetypevalues"
           }
         },
-        "description": ""
+        "description": "The key dates and times of Goal like Setting Data, Planning Date, Start Date, Review Date, Completion Date."
       },
       "goalstatustypevalues": {
         "enum": [
@@ -1923,7 +2553,7 @@
           "ClosureOrRenewal"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Setting` - \r\n* `Planning` - \r\n* `Execution` - \r\n* `MonitoringAndEvaluation` - \r\n* `CompletionOrAchievement` - \r\n* `MaintenanceOrSustainment` - \r\n* `ClosureOrRenewal` - \r\n"
       },
       "goalstatus": {
         "type": "object",
@@ -1935,7 +2565,7 @@
             "$ref": "#/components/schemas/goalstatustypevalues"
           }
         },
-        "description": ""
+        "description": "The lifecycle status of Goal like Goal Setting, Planning, Execution, Monitoring and Evaluation, Completion or Achievement, Maintenance or Sustainment, Closure or Renewal"
       },
       "goal": {
         "type": "object",
@@ -1965,7 +2595,7 @@
           "ResourceBudget"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `OperatingBudget` - \r\n* `FinancialBudget` - \r\n* `ResourceBudget` - \r\n"
       },
       "budgettype": {
         "type": "object",
@@ -1977,7 +2607,7 @@
             "$ref": "#/components/schemas/budgettypevalues"
           }
         },
-        "description": ""
+        "description": "A Classification value that specifies the type of Budget"
       },
       "budgetarrangement": {
         "type": "object",
@@ -1989,18 +2619,18 @@
             "$ref": "#/components/schemas/amount"
           }
         },
-        "description": ""
+        "description": "An arrangement which is specifying an estimate of costs, revenues, and resources over a specified period, reflecting a reading of future financial conditions and goals. (adapted from Business Dictionary)"
       },
       "plannedaction": {
         "type": "object",
         "properties": {
           "PlannedAction": {
             "type": "string",
-            "description": "",
+            "description": "An action that is arranged in a plan for doing or achieving something ",
             "format": "class"
           }
         },
-        "description": ""
+        "description": "An action that is arranged in a plan for doing or achieving something "
       },
       "plantypevalues": {
         "enum": [
@@ -2011,7 +2641,7 @@
           "DevelopmentPlan"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `AdministrativePlan` - \r\n* `ManagementPlan` - \r\n* `StratgyPlan` - \r\n* `FinancialPlan` - \r\n* `DevelopmentPlan` - \r\n"
       },
       "plan": {
         "type": "object",
@@ -2050,7 +2680,7 @@
             "$ref": "#/components/schemas/plan"
           }
         },
-        "description": ""
+        "description": "An arranged FeeRatePlan\n"
       },
       "adjustmentdirectiontypevalues": {
         "enum": [
@@ -2058,7 +2688,7 @@
           "Substracted"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Added` - Adjustment amount must be added to the total amount.\r\n* `Substracted` - Adjustment amount must be substracted from the total amount.\r\n"
       },
       "chargebearertypevalues": {
         "enum": [
@@ -2068,7 +2698,7 @@
           "Followingservicelevel"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Bornebydebtor` - All transaction charges are to be borne by the debtor.\r\n* `Bornebycreditor` - All transaction charges are to be borne by the creditor.\r\n* `Shared` - In a credit transfer context, means that transaction charges on the sender side are to be borne by the debtor, transaction charges on the receiver side are to be borne by the creditor. In a direct debit context, means that transaction charges on the sender side are to be borne by the creditor, transaction charges on the receiver side are to be borne by the debtor.\r\n* `Followingservicelevel` - Charges are to be applied following the rules agreed in the service level and/or scheme.\r\n"
       },
       "feearrangement": {
         "type": "object",
@@ -2104,7 +2734,7 @@
             "$ref": "#/components/schemas/chargebearertypevalues"
           }
         },
-        "description": ""
+        "description": "The allowed pricing includes ranges by customer measures e.g. credit grade"
       },
       "rulesettypevalues": {
         "enum": [
@@ -2116,7 +2746,7 @@
           "Standard"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Policy` - Rule that governs business execution.\n\nThe set of basic principles and associated guidelines, formulated and enforced by the governing body of an organization, to direct and limit its actions in pursuit of long-term goals. (Business Dictionary)\n\r\n* `Regulation` - A rule used to carry out a law (FIBO)\n\nBusiness Dictionary: a rule (with or without the coercive power of law) employed in controlling, directing, or managing an activity, organization, or system. \n\nThe set of rules and legislation governing certain actions. \nhttps://financial-dictionary.thefreedictionary.com/Regulatory\r\n* `Law` - A binding rule that the courts will enforce.\nA system of rules and guidelines which are enforced through social institutions to govern behavior. (FIBO)\n\r\n* `Guideline` - A recommended practice (adapted from Business Dictionary)\nA general rule, principle, or piece of advice.\r\n* `Criterion` - A principle or standard by which something may be judged or decided.\n\nRead more: http://www.businessdictionary.com/definition/criterion.html\r\n* `Standard` - A rule considered by an authority or by general consent as a basis of comparison\r\n"
       },
       "ruleset": {
         "type": "object",
@@ -2140,7 +2770,7 @@
             "$ref": "#/components/schemas/status"
           }
         },
-        "description": ""
+        "description": "Guidelines for the allowed situation-based pricing adjustments (to maximize margins)"
       },
       "FacilityApplication": {
         "type": "object",
@@ -2170,7 +2800,7 @@
             "$ref": "#/components/schemas/schedule"
           }
         },
-        "description": ""
+        "description": "Handles the booking of the asset or liability to the appropriate unit"
       },
       "compliancechecktypevalues": {
         "enum": [
@@ -2179,7 +2809,7 @@
           "GuidelineComplianceCheck"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `RegulatoryComplianceCheck` - \r\n* `LegalComplianceCheck` - \r\n* `GuidelineComplianceCheck` - \r\n"
       },
       "requirement": {
         "type": "object",
@@ -2190,7 +2820,7 @@
             "format": "string"
           }
         },
-        "description": ""
+        "description": "Description of the compliance requirements"
       },
       "Audit": {
         "type": "object",
@@ -2209,11 +2839,11 @@
           },
           "GuidelineComplianceCheckAssessment": {
             "type": "string",
-            "description": "",
+            "description": "The result of the compliance assessment",
             "format": "rwc:e275a88a-4bc9-3b28-1583-84be99fd9eaa/61866"
           }
         },
-        "description": ""
+        "description": "Handles the booking of the asset or liability to the appropriate unit"
       },
       "statementtypevalues": {
         "enum": [
@@ -2222,7 +2852,7 @@
           "CustomerStatement"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `FinancialStatement` - \r\n* `AccountStatement` - \r\n* `CustomerStatement` - \r\n"
       },
       "statement": {
         "type": "object",
@@ -2231,7 +2861,7 @@
             "$ref": "#/components/schemas/statementtypevalues"
           }
         },
-        "description": ""
+        "description": "A statement of income over a required duration in a suitable format"
       },
       "underwritingassessment": {
         "type": "object",
@@ -2240,7 +2870,7 @@
             "$ref": "#/components/schemas/identifier"
           }
         },
-        "description": ""
+        "description": "The outcome of the underwriting assessment"
       },
       "Underwriting": {
         "type": "object",
@@ -2258,18 +2888,18 @@
             "$ref": "#/components/schemas/underwritingassessment"
           }
         },
-        "description": ""
+        "description": "Handles the booking of the asset or liability to the appropriate unit"
       },
       "customeragreement": {
         "type": "object",
         "properties": {
           "CustomerAgreement": {
             "type": "string",
-            "description": "",
+            "description": "An agreement between a bank and its customer. ",
             "format": "class"
           }
         },
-        "description": ""
+        "description": "Reference to the associated master agreement that is accessed during the offer procedure"
       },
       "productagreementtypevalues": {
         "enum": [
@@ -2282,7 +2912,7 @@
           "TermDepositAgreement"
         ],
         "type": "string",
-        "description": ""
+        "description": "The type of product or service that is being offered ||\r\n|"
       },
       "productagreement": {
         "type": "object",
@@ -2291,7 +2921,7 @@
             "$ref": "#/components/schemas/productagreementtypevalues"
           }
         },
-        "description": ""
+        "description": "Reference to the Customer Product ||\r\n|"
       },
       "Agreement": {
         "type": "object",
@@ -2303,7 +2933,7 @@
             "$ref": "#/components/schemas/productagreement"
           }
         },
-        "description": ""
+        "description": "Handles the booking of the asset or liability to the appropriate unit"
       },
       "ProductInitialization": {
         "type": "object",
@@ -2312,7 +2942,7 @@
             "$ref": "#/components/schemas/productagreement"
           }
         },
-        "description": ""
+        "description": "Handles the booking of the asset or liability to the appropriate unit"
       },
       "Compliance": {
         "type": "object",
@@ -2331,64 +2961,64 @@
           },
           "RegulatoryComplianceCheckAssessment": {
             "type": "string",
-            "description": "",
+            "description": "The result of the compliance assessment",
             "format": "rwc:e275a88a-4bc9-3b28-1583-84be99fd9eaa/61860"
           }
         },
-        "description": ""
+        "description": "Handles the booking of the asset or liability to the appropriate unit"
       },
       "CorrespondenceandDocuments": {
         "type": "object",
         "properties": {
           "CustomerOfferRequiredDocuments": {
             "type": "string",
-            "description": "",
+            "description": "Description of the required documents and time limits on receipt where appropriate",
             "format": "string"
           },
           "CorrespondenceInstanceReference": {
             "type": "string",
-            "description": "",
+            "description": "Reference to the correspondence generated and received",
             "format": "object"
           },
           "CorrespondenceContent": {
             "type": "string",
-            "description": "",
+            "description": "Correspondence content - messages sent to and received from involved parties",
             "format": "string"
           },
           "DocumentDirectoryEntryInstanceReference": {
             "type": "string",
-            "description": "",
+            "description": "The document reference for associated documents",
             "format": "object"
           },
           "DocumentContent": {
             "type": "string",
-            "description": "",
+            "description": "Document copy/content - legal or significant documents created & referenced",
             "format": "string"
           }
         },
-        "description": ""
+        "description": "Handles the booking of the asset or liability to the appropriate unit"
       },
       "customerrelationship": {
         "type": "object",
         "properties": {
           "CustomerRelationship": {
             "type": "string",
-            "description": "",
+            "description": "A specific relationship between a specific Bank (= party acting as a supplier of banking services) and one or more other involved parties acting as (potential) consumers of banking services as agreed in one or more banking product or service offerings and/or agreements. ",
             "format": "class"
           }
         },
-        "description": ""
+        "description": "Reference to the associated customer (can currently be a person or a company) ||\r\n|"
       },
       "worksteptypevalues": {
         "type": "object",
         "properties": {
           "Worksteptypevalues": {
             "type": "string",
-            "description": "",
+            "description": "A Classification value that distinguishes between the type of workstep undertaken within Procedure",
             "format": "enumeration"
           }
         },
-        "description": ""
+        "description": "The type of task performed (each BQ constitutes an optional task instance) ||\r\n|"
       },
       "workproducttypevalues": {
         "enum": [
@@ -2401,7 +3031,7 @@
           "MeetingMinute"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Document` - \r\n* `WorkingPaper` - \r\n* `ActivityLog` - \r\n* `Form` - \r\n* `File` - File of consolidated notes, evaluations and recommendations for the work task\r\n* `MeetingSchedule` - \r\n* `MeetingMinute` - \r\n"
       },
       "workproduct": {
         "type": "object",
@@ -2413,7 +3043,7 @@
             "$ref": "#/components/schemas/identifier"
           }
         },
-        "description": ""
+        "description": "Work documentation, forms and schedules produced and referenced during the analysis ||\r\n|"
       },
       "workstep": {
         "type": "object",
@@ -2437,7 +3067,7 @@
             "$ref": "#/components/schemas/workproduct"
           }
         },
-        "description": ""
+        "description": "Tasks performed to maintain/verify the life-cycle status ||\r\n|"
       },
       "customerofferinvolvementtypevalues": {
         "enum": [
@@ -2449,7 +3079,7 @@
           "AnalyticsAndReporting"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Customer` - The customer is the target audience for the Customer Offer. \r\n* `ServiceProvider` - The entity offering the Customer Offer\r\n* `SalesTeam` - Party who plays a critical role in communicating the offer to potential customers, explaining its benefits, and assisting customers in accepting the offer.\r\n* `MarketingTeam` - Party who is responsible for creating and promoting the Customer Offer\r\n* `LegalAndComplianceTeam` - Party who is is responsible for ensuring that the Customer Offer complies with relevant laws and regulations.\r\n* `AnalyticsAndReporting` - A teams or individuals who is responsible for tracking the performance of Customer Offers. They collect data on how the offer is received by customers, how many customers accept it, and the impact on sales or customer acquisition.\r\n"
       },
       "customerofferinvolvement": {
         "type": "object",
@@ -2466,7 +3096,7 @@
             "format": "customeroffer"
           }
         },
-        "description": ""
+        "description": "When doing customer offer, multiple parties can be involved. This can be in the context of customer ( 1 or more parties who are known as the customer ) but it can also be someone who is giving a personal warranty.\nSometimes the involved parties are not customers but for example beneficiaries. ||\r\n|"
       },
       "offertypevalues": {
         "enum": [
@@ -2477,7 +3107,7 @@
           "Other"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `BalanceTransfer` - \r\n* `LimitIncrease` - \r\n* `MoneyTransfer` - \r\n* `PromotionalRate` - \r\n* `Other` - \r\n"
       },
       "condition": {
         "type": "object",
@@ -2498,7 +3128,7 @@
             "$ref": "#/components/schemas/status"
           }
         },
-        "description": ""
+        "description": "Further details of the term of the offer."
       },
       "customeroffer": {
         "type": "object",
@@ -2531,7 +3161,7 @@
             "$ref": "#/components/schemas/amount"
           }
         },
-        "description": ""
+        "description": "Reference to the Customer Offer ||\r\n|"
       },
       "productidentificationtypevalues": {
         "enum": [
@@ -2550,7 +3180,7 @@
           "Universalproductcode"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `ISINCode` - \r\n* `PackageCode` - \r\n* `Buyersitemnumber` - Product identifier assigned by the buyer.\r\n* `Commercialdescriptioncodename` - A code to identify a product based on applicable commercial conditions.\r\n* `EAN` - The unique EAN (European Article Number) code.\r\n* `Harmonizedtariffcodename` - Classification of goods as developed by the Customs Cooperation council.\r\n* `Manufacturersitemnumber` - Product identifier as assigned by the manufacturer.\r\n* `Modelnumber` - Reference number assigned by the manufacturer to differentiate variations in similar products in a class or group.\r\n* `Partnumber` - Reference assigned by the manufacturer to a product part.\r\n* `Quotacategory` - Product identifier used by the retail industry.\r\n* `Stylenumber` - Identification of the style of a product.\r\n* `Suppliersitemnumber` - Number assigned to an article by the supplier of that article.\r\n* `Universalproductcode` - Number assigned to a manufacturer's product by the Product Code Council.\r\n"
       },
       "productidentification": {
         "type": "object",
@@ -2562,7 +3192,7 @@
             "$ref": "#/components/schemas/productidentificationtypevalues"
           }
         },
-        "description": ""
+        "description": "The identifier of product e.g. ISIN Code."
       },
       "bankingproducttypevalues": {
         "enum": [
@@ -2573,7 +3203,7 @@
           "TermDepositProduct"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `LoanProduct` - \r\n* `CurrentAccountProduct` - \r\n* `SavingAccountProduct` - \r\n* `BrokeredProduct` - \r\n* `TermDepositProduct` - \r\n"
       },
       "productstatustypevalues": {
         "enum": [
@@ -2584,7 +3214,7 @@
           "Active"
         ],
         "type": "string",
-        "description": ""
+        "description": ">\r\n* `Initiated` - \r\n* `Announced` - \r\n* `Sold` - \r\n* `Obsolete` - \r\n* `Active` - \r\n"
       },
       "productstatus": {
         "type": "object",
@@ -2596,7 +3226,7 @@
             "$ref": "#/components/schemas/productstatustypevalues"
           }
         },
-        "description": ""
+        "description": "Refers to the lifecycle of a product (e.g., initiated, announced, active, obsolete, withdrawn)."
       },
       "bankingproduct": {
         "type": "object",
@@ -2623,7 +3253,7 @@
             "$ref": "#/components/schemas/name"
           }
         },
-        "description": ""
+        "description": "Reference to the banking product or service that is being offered Product_x000D_\n|Product (https://www.iso20022.org/standardsrepository/type/Product)|Standard|ISO20022 BM ()"
       },
       "CustomerOfferProcedure": {
         "type": "object",
@@ -2668,13 +3298,72 @@
             "$ref": "#/components/schemas/bankingproduct"
           }
         },
-        "description": ""
+        "description": "The customer offer procedure record, combines the result of all underlying work steps"
       }
     },
     "responses": {
- 
+      "BadRequest": {
+        "description": "BadRequest",
+        "content": {
+          "application/json": {
+            "schema": {
+              "$ref": "#/components/schemas/HTTPError"
+            }
+          }
+        }
+      },
+      "Unauthorized": {
+        "description": "Unauthorized",
+        "content": {
+          "application/json": {
+            "schema": {
+              "$ref": "#/components/schemas/HTTPError"
+            }
+          }
+        }
+      },
+      "Forbidden": {
+        "description": "Forbidden",
+        "content": {
+          "application/json": {
+            "schema": {
+              "$ref": "#/components/schemas/HTTPError"
+            }
+          }
+        }
+      },
+      "NotFound": {
+        "description": "NotFound",
+        "content": {
+          "application/json": {
+            "schema": {
+              "$ref": "#/components/schemas/HTTPError"
+            }
+          }
+        }
+      },
+      "TooManyRequests": {
+        "description": "TooManyRequests",
+        "content": {
+          "application/json": {
+            "schema": {
+              "$ref": "#/components/schemas/HTTPError"
+            }
+          }
+        }
+      },
+      "InternalServerError": {
+        "description": "InternalServerError",
+        "content": {
+          "application/json": {
+            "schema": {
+              "$ref": "#/components/schemas/HTTPError"
+            }
+          }
+        }
+      },
       "CustomerOfferProcedure": {
-        "description": "",
+        "description": "CustomerOfferProcedure",
         "content": {
           "application/json": {
             "schema": {
@@ -2684,7 +3373,7 @@
         }
       },
       "FacilityApplication": {
-        "description": "",
+        "description": "FacilityApplication",
         "content": {
           "application/json": {
             "schema": {
@@ -2694,7 +3383,7 @@
         }
       },
       "Disclosures": {
-        "description": "",
+        "description": "Disclosures",
         "content": {
           "application/json": {
             "schema": {
@@ -2704,7 +3393,7 @@
         }
       },
       "Credit": {
-        "description": "",
+        "description": "Credit",
         "content": {
           "application/json": {
             "schema": {
@@ -2714,7 +3403,7 @@
         }
       },
       "Underwriting": {
-        "description": "",
+        "description": "Underwriting",
         "content": {
           "application/json": {
             "schema": {
@@ -2724,7 +3413,7 @@
         }
       },
       "Compliance": {
-        "description": "",
+        "description": "Compliance",
         "content": {
           "application/json": {
             "schema": {
@@ -2734,7 +3423,7 @@
         }
       },
       "Audit": {
-        "description": "",
+        "description": "Audit",
         "content": {
           "application/json": {
             "schema": {
@@ -2744,7 +3433,7 @@
         }
       },
       "Collateral": {
-        "description": "",
+        "description": "Collateral",
         "content": {
           "application/json": {
             "schema": {
@@ -2754,7 +3443,7 @@
         }
       },
       "Booking": {
-        "description": "",
+        "description": "Booking",
         "content": {
           "application/json": {
             "schema": {
@@ -2764,7 +3453,7 @@
         }
       },
       "CorrespondenceandDocuments": {
-        "description": "",
+        "description": "CorrespondenceandDocuments",
         "content": {
           "application/json": {
             "schema": {
@@ -2774,7 +3463,7 @@
         }
       },
       "Agreement": {
-        "description": "",
+        "description": "Agreement",
         "content": {
           "application/json": {
             "schema": {
@@ -2784,7 +3473,7 @@
         }
       },
       "ProductInitialization": {
-        "description": "",
+        "description": "ProductInitialization",
         "content": {
           "application/json": {
             "schema": {
